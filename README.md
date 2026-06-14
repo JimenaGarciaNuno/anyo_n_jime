@@ -1,4 +1,4 @@
-# anyo_n_jime 🌿💙
+# anyo_n_jime 
 
 a digital library of me and my pookie &lt;3
 
@@ -110,4 +110,4 @@ Or install the [Live Server](https://marketplace.visualstudio.com/items?itemName
 
 ---
 
-made with love 💚💙
+made with love
