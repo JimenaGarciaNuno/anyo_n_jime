@@ -1,0 +1,36 @@
+{
+  "journal": [
+    {
+      "date": "June 14, 2026",
+      "author": "jime",
+      "text": "hI !! I have decided to make this website and update it weekly to keep in touch with pookie. It has two galleries — one for pictures of us, and a second one I update with descriptions. I'll also be adding prompts like would you rather and just goofy little questions. I hope this can keep our relationship fun as well as keep us connected. I love you so much anya <3"
+    }
+  ],
+
+  "gallery_us": [
+    {
+      "src": "images/us/placeholder.jpg",
+      "caption": "add your first photo here! put the image file in the images/us/ folder, then replace this entry.",
+      "date": "June 14, 2026"
+    }
+  ],
+
+  "gallery_descriptions": [
+    {
+      "title": "our first entry",
+      "description": "this gallery is for memories with descriptions — add a title, a little story, and a date. no photo needed, just words.",
+      "date": "June 14, 2026",
+      "author": "jime"
+    }
+  ],
+
+  "prompts": [
+    {
+      "type": "would you rather",
+      "question": "spend a whole day exploring a new city together or stay in and do nothing but watch movies and eat snacks?",
+      "option_a": "explore a new city",
+      "option_b": "cozy movie day",
+      "date": "June 14, 2026"
+    }
+  ]
+}
